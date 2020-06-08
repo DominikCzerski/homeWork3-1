@@ -1,3 +1,5 @@
+package HomeWork3_1;
+
 public class Laptop {
     String producentName;
     String colour;

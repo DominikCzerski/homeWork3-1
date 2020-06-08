@@ -1,3 +1,5 @@
+package HomeWork3_1;
+
 public class LaptopTest {
 
     public static void main(String[] args) {
