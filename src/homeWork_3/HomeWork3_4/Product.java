@@ -1,4 +1,4 @@
-package HomeWork3_4;
+package homeWork_3.HomeWork3_4;
 
 public class Product {
 

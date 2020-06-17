@@ -1,4 +1,4 @@
-package HomeWork3_3;
+package homeWork_3.HomeWork3_3;
 
 public class Arithmetic {
 

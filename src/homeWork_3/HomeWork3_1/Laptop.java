@@ -1,4 +1,4 @@
-package HomeWork3_1;
+package homeWork_3.HomeWork3_1;
 
 public class Laptop {
     String producentName;
