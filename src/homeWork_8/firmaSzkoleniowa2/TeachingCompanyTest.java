@@ -9,7 +9,6 @@ public class TeachingCompanyTest {
         Address studentMichalAddress = new Address("Wileńska", "21", "Warszawa");
         Student studentMichal = new Student("Michał", "Damiencki", studentMichalAddress);
 
-
         Group[] studentMichalGroups = new Group[2];
         studentMichalGroups[0] = new Group(studentMichal, instructorDominik, "Programowanie");
         studentMichalGroups[1] = new Group(studentMichal, instructorDominik, "Malowanie");
