@@ -1,4 +1,4 @@
-package homeWork_11;
+package homeWork_11.bezpieczneKontoBankowe;
 
 public class Person {
 
