@@ -26,6 +26,8 @@ public class CountNumbers {
 	}
 
 
+
+
 	static void countFrequency(ArrayList<Integer> array, int arraySize) {
 		Map<Integer, Integer> mp = new HashMap<>();
 		for (int i = 0; i < arraySize; i++) {
